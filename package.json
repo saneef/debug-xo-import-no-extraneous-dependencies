@@ -1,0 +1,14 @@
+{
+  "name": "xo-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "xo index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "xo": "^0.30.0"
+  }
+}
